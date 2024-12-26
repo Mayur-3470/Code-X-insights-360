@@ -8,3 +8,8 @@ Task: To extracted key insights from survey result to drive marketing strategies
 
 Action: Created a report presenting my analysis from market survey results. Tools and Techniques used- MySQL Microsoft Power BI Canva OBS Studio InShot AI tools(ChatGpt, Bard)
 
+
+Power BI = https://app.powerbi.com/view?r=eyJrIjoiY2U5MTFjZTgtN2Y2Zi00NTljLWJlZjgtYzFkOTY0Nzk0ZjBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Linkedin = https://www.linkedin.com/in/mayur-m-937226193/
+
